@@ -10,4 +10,4 @@ sub-directories that contain the namesake plots.
 
 
 Note: there is a plots_samples subdirectory in this repository that contains a few samples of the plots I printed.
-      the heatmap plot shows the correlation between features and also the numerical value of their relation in each little squire.
+      the heatmap plot shows the correlation between features and also the numerical value of their correlation in each little squire.
